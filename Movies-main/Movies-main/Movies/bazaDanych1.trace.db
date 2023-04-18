@@ -1,0 +1,6 @@
+2023-04-04 17:52:35 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "VIDEO_CASSETTE" not found (this database is empty); SQL statement:
+select videocasse0_.id as id1_0_0_, videocasse0_.production_year as producti2_0_0_, videocasse0_.title as title3_0_0_ from video_cassette videocasse0_ where videocasse0_.id=? [42104-214]
+2023-04-04 17:56:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "VIDEO_CASSETTE" not found (this database is empty); SQL statement:
+select videocasse0_.id as id1_0_0_, videocasse0_.production_year as producti2_0_0_, videocasse0_.title as title3_0_0_ from video_cassette videocasse0_ where videocasse0_.id=? [42104-214]
